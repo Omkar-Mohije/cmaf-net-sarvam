@@ -1,0 +1,5 @@
+image,audio,text,label,split
+images/sample1.jpg,audio/sample1.wav,"This product was fantastic",positive,train
+images/sample2.jpg,audio/sample2.wav,"A terrible experience",negative,train
+images/sample3.jpg,audio/sample3.wav,"I really enjoyed this",positive,val
+images/sample4.jpg,audio/sample4.wav,"This was disappointing",negative,test

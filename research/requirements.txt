@@ -1,0 +1,13 @@
+streamlit>=1.39
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+Pillow>=10.0
+soundfile>=0.12
+librosa>=0.10.2
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40,<5
+scikit-learn>=1.4
+sarvamai>=0.1
+python-dotenv>=1.0
